@@ -1,5 +1,6 @@
 import math
 import random
+import game
 
 class Player:
     def __init__(self, letter):
